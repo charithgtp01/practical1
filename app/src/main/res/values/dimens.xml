@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titlePadding">16dp</dimen>
+    <dimen name="pageHorizontalPadding">32dp</dimen>
+    <dimen name="editTextTopMargin">48dp</dimen>
+    <dimen name="buttonTopMargin">32dp</dimen>
+</resources>
